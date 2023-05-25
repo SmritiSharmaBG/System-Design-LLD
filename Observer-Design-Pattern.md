@@ -14,3 +14,5 @@ It consists of 2 major component :
 - Concrete implementation of Observer needs to have 'is-a' relationship with Observer
 - Concrete implementation of Observer should have 'has-a' relationship with concrete implementation of Observable which should be defined during instantiation using *Dependency injection*
 - In case of one observer having multiple observable, that observer should specify those (concrete implementation of) observables in the dependency injection (using constructor) and the update() method should be parameterised as : `update(IObservable observable)` and the to know which concrete implementation of Observable had notified the observer, use `instanceof` condition.
+
+For the implememtation, check out the following repo : [Observer Design Pattern](https://github.com/SmritiSharmaBG/Observer-Design-Pattern).
