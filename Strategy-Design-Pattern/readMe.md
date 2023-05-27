@@ -14,4 +14,4 @@ Strategy Design Pattern :
 - 2. encapsulates each algorithm (into the Strategy interface)
 - 3. makes algorithm interchangable within the family
 
-*Refer the following repo for actual code :* [Strategy Design Pattern Code](https://github.com/SmritiSharmaBG/Strategy-Design-Pattern)
+*Refer the following repo for actual code :* [Vehicle and its Driving Capability using Strategy Design Pattern](https://github.com/SmritiSharmaBG/Strategy-Design-Pattern)
