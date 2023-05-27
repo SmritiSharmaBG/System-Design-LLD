@@ -3,4 +3,4 @@
 ## Table of Contents
 
 - SOLID Principles
-- Strategy Pattern (Design Pattern #1)
+- Design Pattern #1 : [Strategy Pattern](https://github.com/SmritiSharmaBG/System-Design-LLD/tree/main/Strategy-Design-Pattern)
